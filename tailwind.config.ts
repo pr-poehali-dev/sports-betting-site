@@ -61,7 +61,19 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				navy: '#1A1A2E',
+				'deep-blue': '#16213E',
+				'accent-red': '#0F3460',
+				'brand-red': '#E94560',
+				sports: {
+					primary: '#1A1A2E',
+					secondary: '#16213E',
+					accent: '#E94560',
+					gold: '#FFD700',
+					success: '#10B981',
+					warning: '#F59E0B',
+				},
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
